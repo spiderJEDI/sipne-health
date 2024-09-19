@@ -1,16 +1,16 @@
-'use client'
+"use client";
 
-import React from 'react';
-import Header from './components/Header';
-import HeroSection from './components/HeroSection';
-import AboutSection from './components/AboutSection';
-import ServicesSection from './components/ServicesSection';
-import WhyChooseUsSection from './components/WhyChooseUsSection';
-import HowItWorksSection from './components/HowItWorksSection';
-import TestimonialsSection from './components/TestimonialsSection';
-import ContactSection from './components/ContactSection';
-import FAQSection from './components/FAQSection';
-import Footer from './components/Footer';
+import React from "react";
+import Header from "./Header";
+import HeroSection from "./HeroSection";
+import AboutSection from "./AboutSection";
+import ServicesSection from "./ServicesSection";
+import WhyChooseUsSection from "./WhyChooseUsSection";
+import HowItWorksSection from "./HowItWorksSection";
+import TestimonialsSection from "./TestimonialsSection";
+import ContactSection from "./ContactSection";
+import FAQSection from "./FAQSection";
+import Footer from "./Footer";
 
 export function HomePageComponent() {
   return (
