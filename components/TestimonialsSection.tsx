@@ -61,7 +61,7 @@ export default function TestimonialsSection() {
               <Card key={index} className="border-2 border-gray-200 bg-white">
                 <CardContent className="p-6">
                   <p className="mb-4 text-black italic">
-                    "{testimonial.content}"
+                    &apos;{testimonial.content}&apos;
                   </p>
                   <div className="flex items-center">
                     <Image

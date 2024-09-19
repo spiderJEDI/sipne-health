@@ -50,7 +50,7 @@ export default function FAQSection() {
             Frequently Asked Questions
           </h3>
           <h2 className="text-3xl sm:text-4xl font-bold mb-4">
-            Got Questions? We've Got Answers
+            Got Questions? We&apos;ve Got Answers
           </h2>
         </motion.div>
         <div className="max-w-3xl mx-auto">
